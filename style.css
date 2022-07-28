@@ -5,6 +5,9 @@
 .join-section {
     min-height: 200px;
 }
+#banner-image{
+    filter: brightness(50%);
+}
 
 @media only screen and (max-width:991px) {
     #companies {
